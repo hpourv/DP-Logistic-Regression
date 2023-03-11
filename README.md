@@ -8,6 +8,6 @@ For Example, there are two types of attacks that can extract training data from 
 ![My Image](redpic.png)
 
 
-![My Image](redpic1.png)
+   ![My Image](redpic1.png)
 
 
