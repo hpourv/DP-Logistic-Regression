@@ -5,4 +5,6 @@ For Example, there are two types of attacks that can extract training data from 
 * Model Inversion Attacks
 * Membership Inference Attacks
 
+![My Image](redpic.png)
+
 
