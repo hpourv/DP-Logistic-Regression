@@ -6,5 +6,7 @@ For Example, there is an an attack that can extract training data from a ML mode
 
 ![My Image](redpic.png)
 
+In model inversion attacks, an adversary attempts to recover the private dataset used to train a ML model.
+
 
 
