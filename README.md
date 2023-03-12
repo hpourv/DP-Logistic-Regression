@@ -23,4 +23,4 @@ We make every iteration of gradient descent differentially private by implementi
 
 ## Results
 
-
+Now we can tune the level of privacy in the ML model.
