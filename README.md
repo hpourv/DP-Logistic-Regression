@@ -19,7 +19,7 @@ We apply Gaussian mechanism for privatizing the updating rule of the gradient de
 
 ![My Image](alg.png)
 
-We make every iteration of gradient descent differentially private by implementing the noisy gradient descent algorithm.
+We make every iteration of gradient descent differentially private by adding callibrated Gaussian noise to the gradient computation in each iteration..
 
 ## Results
 
