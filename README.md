@@ -7,4 +7,4 @@ For Example, Model Inversion Attacks can extract training data from a ML model.
 In model inversion attacks, an adversary attempts to recover the private dataset used to train a ML model.
 
 ## What I did in this project?
-
+I developed a differentially private classifier based on logistic regression. The hypothetical training dataset (sourced from Coursera Machine Learning course) contains two medical features of 100 individuals. And labels classify individuals to high risk and low risk of developing a disease.
