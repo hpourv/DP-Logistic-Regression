@@ -10,6 +10,7 @@ In model inversion attacks, an adversary attempts to recover the private dataset
 I developed a differentially private classifier based on logistic regression. The hypothetical training dataset contains two medical features of 100 individuals. And labels classify individuals to high risk and low risk of developing a disease. My goal is to make the logistic regression algorithm, differentially private.
 
 ## Non - Private Logistic Regression
+The decision boundary of the classifier is sensitive to the individual data points in the training set.
 
 ![My Image](adv.png)
 
