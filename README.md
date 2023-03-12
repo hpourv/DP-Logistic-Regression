@@ -18,3 +18,4 @@ The decision boundary of the classifier is sensitive to the individual data poin
 We apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
 ![My Image](alg.png)
+We make every iteration of gradient descent algorithm differentially private by implementing the noisy gradient descent algorithm.
