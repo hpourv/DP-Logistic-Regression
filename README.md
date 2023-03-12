@@ -6,5 +6,5 @@ For Example, Model Inversion Attacks can extract training data from a ML model.
 
 In model inversion attacks, an adversary attempts to recover the private dataset used to train a ML model.
 
-What I did in this project?
+## What I did in this project?
 
