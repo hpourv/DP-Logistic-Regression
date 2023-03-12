@@ -14,3 +14,6 @@ The decision boundary of the classifier is sensitive to the individual data poin
 
 ![My Image](adv.png)
 
+## Private Logistic Regression
+
+
