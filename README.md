@@ -23,4 +23,4 @@ We make every iteration of gradient descent differentially private by adding cal
 
 ## Results
 
-Now we can tune the level of privacy in the ML model.
+In this section we investigate the intrinsic trade-off between accuracy and privacy.
