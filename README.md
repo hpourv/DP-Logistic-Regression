@@ -15,5 +15,6 @@ The decision boundary of the classifier is sensitive to the individual data poin
 ![My Image](adv.png)
 
 ## Private Logistic Regression
+We apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
-
+![My Image](alg.png)
