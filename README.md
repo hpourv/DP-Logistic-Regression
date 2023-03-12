@@ -23,4 +23,4 @@ We make every iteration of gradient descent differentially private by adding cal
 
 ## Results
 
-In this section we investigate the intrinsic trade-off between accuracy and privacy.
+In this section we investigate the intrinsic trade-off between accuracy and privacy in an differentially private logistic regression.
