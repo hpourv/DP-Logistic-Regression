@@ -11,3 +11,5 @@ I developed a differentially private classifier based on logistic regression. Th
 
 ## Non - Private Logistic Regression
 
+![My Image](adv.png)
+
