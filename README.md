@@ -13,7 +13,7 @@ I developed a differentially private classifier based on logistic regression. Th
 Differential Privacy(DP) is a formal mathematical standard for protecting individuals privacy. DP ensures that the output of a computation will be roughly unchanged whether or not an individual’s data is used, thus limiting an adversary’s ability to infer about individuals’ data points. The main idea for satisfying this condition is to perturb the computation by injecting a calibrated amount of noise to mask the contribution of each individual in the dataset. In the following, I present the
 formal definition of DP and a couple of remarks about this notion.
 
-![My Image](dpdif.png)
+![My Image](dpdef.png)
 
 
 
