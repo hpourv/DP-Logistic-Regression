@@ -15,7 +15,7 @@ formal definition of DP and a couple of remarks about this notion.
 
 ![My Image](dpdef.png)
 
-The aforementioned definition is about the behavior of M and promises that no individual’s data has a large impact on the output. More formally, when an ϵ−differentially private algorithm runs on two neighboring datasets, the resulting distributions over the output space will be very similar,and this similarity is captured by a multiplicative factor e^ϵ. The required noise for satisfying DP is calibrated based on the global sensitivity of the computation. We formalize the mathematical definition of the global sensitivity in the following.
+The aforementioned definition is about the behavior of M and promises that no individual’s data has a large impact on the output. More formally, when an ϵ−differentially private algorithm runs on two neighboring datasets, the resulting distributions over the output space will be very similar,and this similarity is captured by a multiplicative factor e^ϵ. The required noise for satisfying DP is calibrated based on the global sensitivity of the computation. I formalize the mathematical definition of the global sensitivity in the following.
 
 ![My Image](dpdef2.png)
 
