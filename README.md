@@ -33,6 +33,8 @@ The aforementioned definition is about the behavior of M and promises that no in
 
 
 
+
+
 ## Non - Private Logistic Regression
 The decision boundary of the classifier is sensitive to the individual data points in the training set.
 
