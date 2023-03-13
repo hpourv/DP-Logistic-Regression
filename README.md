@@ -15,6 +15,12 @@ formal definition of DP and a couple of remarks about this notion.
 
 ![My Image](dpdef.png)
 
+The aforementioned definition is about the behavior of M and promises that no individual’s data has a large impact on the output. More formally, when an ϵ−differentially private algorithm runs on two neighboring datasets, the resulting distributions over the output space will be very similar,
+
+
+
+
+
 
 
 
