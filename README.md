@@ -19,7 +19,7 @@ The aforementioned definition is about the behavior of M and promises that no in
 
 ![My Image](dpdef2.png)
 
-Perturbation techniques for satisfying DP in a computation are classified into two basic categories:  1) adding calibrated random noise to the input data, and 2) adding calibrated random noise to the outputs. I add the calibrated random noise to the output of logestic regression algorithm.
+
 
  
 
