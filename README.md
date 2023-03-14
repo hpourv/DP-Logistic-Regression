@@ -20,7 +20,9 @@ Membership inference attacks were first described by Reza Shokri in 2017.
 
 ![My Image](redpic2.png)
 
-The concept of membership inference attacks: Given a trained ML model, try to identify which data points were included in the training set an which ones weren't.
+The concept of membership inference attacks: Given a trained ML model, try to identify which data points were included in the training set an which ones weren't. You might not see the privacy risk right away, but think of the following situation:
+
+Imagine you are in a clinical context. There, you may have an ML model that is supposed to predict an adequate medical treatment for cancer patients. This model, naturally, needs to be trained on the data of cancer patients. Hence, given a data point, if you are able to determine that it was indeed part of the model’s training data, you will know that the corresponding patient must have cancer. As a consequence, this patient’s privacy would be disclosed.
 
 
 
