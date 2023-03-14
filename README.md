@@ -10,7 +10,7 @@ The fact that some information about the training data is stored in the model pa
 
 A very popular attack is the so-called model inversion attack that was first proposed by Matt Fredrikson in 2015. The attack uses a trained classifier in order to extract representations of the training data.
 
-![My Image](.png)
+![My Image](redpic.png)
 
 
 
