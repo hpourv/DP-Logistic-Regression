@@ -71,28 +71,6 @@ Nevertheless, adding noise to the input or output of this problem may lead to in
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Non - Private Logistic Regression
-The decision boundary of the classifier is sensitive to the individual data points in the training set.
-
-![My Image](adv.png)
-
 # Private Logistic Regression
 I apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
