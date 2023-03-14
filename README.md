@@ -8,6 +8,8 @@ What is less frequently addressed is the fact that the process of turning traini
 
 The fact that some information about the training data is stored in the model parameters, might, however, cause privacy problems. This is because it enables someone with access to the ML model to deduct different kinds of information about the training data. 
 
+### Model Inversion Attack
+
 A very popular attack is the so-called model inversion attack that was first proposed by Matt Fredrikson in 2015. The attack uses a trained classifier in order to extract representations of the training data.
 
 ![My Image](redpic.png)
