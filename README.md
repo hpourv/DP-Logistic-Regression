@@ -23,6 +23,8 @@ Perturbation techniques for satisfying DP in a computation are classified into t
 1) adding calibrated random noise to the input data
 2) adding calibrated random noise to the outputs
 
+Nevertheless, adding noise to the input or output of this problem may lead to inaccurate results.
+
 
 
 
