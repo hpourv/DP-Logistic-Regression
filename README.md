@@ -18,6 +18,8 @@ A very popular attack is the so-called model inversion attack that was first pro
 
 Membership inference attacks were first described by Reza Shokri in 2017.
 
+![My Image](redpic2.png)
+
 
 
 
