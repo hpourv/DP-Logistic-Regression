@@ -57,11 +57,11 @@ The decision boundary of the classifier is sensitive to the individual data poin
 ![My Image](adv.png)
 
 ## Private Logistic Regression
-We apply Gaussian mechanism for privatizing the updating rule of the gradient descent
+I apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
 ![My Image](alg.png)
 
-We make every iteration of gradient descent differentially private by adding callibrated Gaussian noise to the gradient computation in each iteration..
+Every iteration of gradient descent is differentially private by adding callibrated Gaussian noise to the gradient computation in each iteration.
 
 ## Results
 
