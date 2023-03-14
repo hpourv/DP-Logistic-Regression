@@ -4,6 +4,10 @@
 
 Imagine, you would like to train a classifier. Usually, you start with some (potentially sensible) training data, i.e. some data features X  and corresponding class y labels. You pick an algorithm, e.g. a neural network (NN), and then you use your training data to make the model learn to map from X to y. This mapping should generalize well, such that your model is also able to predict the correct labels for, so far, unseen data X′.
 
+What is less frequently addressed is the fact that the process of turning training data into a good model is not necessarily a one-way street. In order to learn a mapping from specific features to corresponding labels, the model needs to “remember” in its parameters some information about the data it was trained on. how would it come to correct conclusions about new and unseen data?
+
+The fact that some information about the training data is stored in the model parameters, might, however, cause privacy problems. This is because it enables someone with access to the ML model to deduct different kinds of information about the training data.
+
  
 
  
