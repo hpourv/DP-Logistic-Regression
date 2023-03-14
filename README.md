@@ -1,4 +1,4 @@
-## Motivation
+# Motivation
 
 ### Privacy Issues in Machine Learning
 
@@ -33,7 +33,7 @@ The fact that some information about the training data is stored in the model pa
 
 
 
-## What I did in this project?
+# What I did in this project?
 I developed a differentially private classifier based on logistic regression. The hypothetical training dataset contains two medical features of 100 individuals. And labels classify individuals to high risk and low risk of developing a disease. My goal is to make the logistic regression algorithm, differentially private.
 
 ## What is Differential Privacy?
@@ -78,19 +78,19 @@ Nevertheless, adding noise to the input or output of this problem may lead to in
 
 
 
-## Non - Private Logistic Regression
+# Non - Private Logistic Regression
 The decision boundary of the classifier is sensitive to the individual data points in the training set.
 
 ![My Image](adv.png)
 
-## Private Logistic Regression
+# Private Logistic Regression
 I apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
 ![My Image](alg.png)
 
 Every iteration of gradient descent is differentially private by adding callibrated Gaussian noise to the gradient computation in each iteration.
 
-## Results
+# Results
 
 In this section we investigate the intrinsic trade-off between accuracy and privacy in an differentially private logistic regression. Also now we can quantize the level of privacy in our ML model.
 
