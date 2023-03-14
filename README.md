@@ -20,6 +20,8 @@ Membership inference attacks were first described by Reza Shokri in 2017.
 
 ![My Image](redpic2.png)
 
+The concept of membership inference attacks: Given a trained ML model, try to identify which data points were included in the training set an which ones weren't.
+
 
 
 
