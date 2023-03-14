@@ -1,6 +1,6 @@
 ## Motivation
 
-### Part1 : Privacy Issues in Machine Learning
+### Privacy Issues in Machine Learning
 
 Imagine, you would like to train a classifier. Usually, you start with some (potentially sensible) training data, i.e. some data features X  and corresponding class y labels. You pick an algorithm, e.g. a neural network (NN), and then you use your training data to make the model learn to map from X to y. This mapping should generalize well, such that your model is also able to predict the correct labels for, so far, unseen data X′.
 
@@ -8,13 +8,7 @@ What is less frequently addressed is the fact that the process of turning traini
 
 The fact that some information about the training data is stored in the model parameters, might, however, cause privacy problems. This is because it enables someone with access to the ML model to deduct different kinds of information about the training data.
 
-### Part2 : Model Inversion Attacks
 
-A very popular attack is the so-called model inversion attack that was first proposed by Matt Fredrikson in 2015. The attack uses a trained classifier in order to extract representations of the training data.
-
-Matt Fredrikson use this method, among others, on a face classifier trained on black and white images of 40 different individuals’ faces. The data features 
-X in this example correspond to the individual image pixels that can take continuous values in the range of [0,1]. With this large number of different pixel values combinations over an image, it is inefficient to brute-force a reconstruction over all possible images in order to identify the most likely one(s). Therefore, the authors proposed a different approach.Given m different faces and n pixel values per image. The face recognition classifier can be expressed as a function 
-f [0,1]^n ----> [0,1]^m . The output of the classifier is a vector that represents the probabilities of the image to belong to each of the m classes.
 
 
  
