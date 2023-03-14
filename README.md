@@ -31,7 +31,7 @@ The fact that some information about the training data is stored in the model pa
 
 
 
-![My Image](redpic.png)
+
 
 ## What I did in this project?
 I developed a differentially private classifier based on logistic regression. The hypothetical training dataset contains two medical features of 100 individuals. And labels classify individuals to high risk and low risk of developing a disease. My goal is to make the logistic regression algorithm, differentially private.
