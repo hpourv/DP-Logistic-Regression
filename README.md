@@ -1,6 +1,8 @@
 ## Motivation
 
-### Part1
+### Part1 : Privacy Issues in Machine Learning
+
+
 
 
 
