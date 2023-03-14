@@ -12,7 +12,7 @@ A very popular attack is the so-called model inversion attack that was first pro
 
 ![My Image](redpic.png)
 
-Original face images(right) and restored one through model inverstion(left). The attacker is given only the person's name and access to a facial recognition system.
+Original face images(right) and restored one through model inverstion(left).
 
 
 
