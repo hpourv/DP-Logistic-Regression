@@ -2,6 +2,19 @@
 
 ### Part1 : Privacy Issues in Machine Learning
 
+Imagine, you would like to train a classifier. Usually, you start with some (potentially sensible) training data, i.e. some data features X  and corresponding class y labels. You pick an algorithm, e.g. a neural network (NN), and then you use your training data to make the model learn to map from X to y. This mapping should generalize well, such that your model is also able to predict the correct labels for, so far, unseen data X′.
+
+ 
+
+ 
+
+  
+
+  
+
+
+
+
 
 
 
