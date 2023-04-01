@@ -87,6 +87,8 @@ Nevertheless, adding noise to the input or output of this problem may lead to in
 # Private Logistic Regression
 I apply Gaussian mechanism for privatizing the updating rule of the gradient descent
 
+![My Image](Gauss.png)
+![My Image](Gauss1.png)
 ![My Image](alg.png)
 
 Every iteration of gradient descent is differentially private by adding callibrated Gaussian noise to the gradient computation in each iteration.
