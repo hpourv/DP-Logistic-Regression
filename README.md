@@ -100,3 +100,7 @@ In this section we investigate the intrinsic trade-off between accuracy and priv
 We control the level of privacy with parameter epsilon.
 
 ![My Image](result.png)
+
+
+You can ![download](Presentation-BSc Project.pdf) the slide here.
+
