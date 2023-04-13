@@ -101,6 +101,6 @@ We control the level of privacy with parameter epsilon.
 
 ![My Image](result.png)
 
+![My Image](Presentation-BSc Project.pdf)
 
-You can ![Downloads](Presentation-BSc Project.pdf) the slide here.
 
