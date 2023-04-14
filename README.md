@@ -101,6 +101,6 @@ We control the level of privacy with parameter epsilon.
 
 ![My Image](result.png)
 
-![Download the Slides.](https://github.com/hpourv/DP-Logistic-Regression/blob/main/Presentation-BSc%20Project.pdf)
+![title](https://github.com/hpourv/DP-Logistic-Regression/blob/main/Presentation-BSc%20Project.pdf)
 
 
